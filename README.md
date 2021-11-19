@@ -1,6 +1,6 @@
 [
   {
-    "all": "https://mwallpaper.ir/mobile-wallpapers-2021.html/%d9%be%d8%b3-%d8%b2%d9%85%db%8c%d9%86%d9%87-%d8%ae%d9%81%d9%86-%d8%b4%db%8c%d8%b1-%d8%a8%d8%a7%da%a9%db%8c%d9%81%db%8c%d8%aa"
+    "all": "https://mwallpaper.ir/wp-content/uploads/2021/08/%D9%BE%D8%B3-%D8%B2%D9%85%DB%8C%D9%86%D9%87-%D8%AE%D9%81%D9%86-%D8%B4%DB%8C%D8%B1-%D8%A8%D8%A7%DA%A9%DB%8C%D9%81%DB%8C%D8%AA.jpg?v=1628358657"
   },
   {
     "all": "https://iusnews.ir/images/upfiles/20180222/453454125.jpg"
